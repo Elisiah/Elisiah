@@ -10,7 +10,7 @@ I'm known for:
 
 ## Current Projects
 
-### Jump King Map Editor (25%):
+### Jump King Map Editor (27%):
 
 A C# GUI that will be able to build custom modded levels for the game jump king as well as letting map makers easily edit enitity/player/object data. Currently maps are made in photoshop or sprite software and extra data needs to be edited in xmls by hand.
 
