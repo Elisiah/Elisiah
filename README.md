@@ -14,6 +14,10 @@ I'm known for:
 
 A C# GUI that will be able to build custom modded levels for the game jump king as well as letting map makers easily edit enitity/player/object data. Currently maps are made in photoshop or sprite software and extra data needs to be edited in xmls by hand.
 
+### Jump King Launcher Prototype (90%):
+
+A C# GUI that will be able to install mods directly to the game jump king as well as allowing the user to pick which mods are enabled before the game is laumched. Planned to be rebuilt in Electron to better connect with the websites for JK+ if the prototype works well.
+
 ### Extreme3D (65%): 
 
 Gathers memory data from the nintendo 64 game Extreme G and draws a 3d rendering of the player's race path using Blender. It also will be able to create a real time replay of the race using in-game models which will allow users better insight on their races than anything available in game
