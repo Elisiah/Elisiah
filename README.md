@@ -10,13 +10,13 @@ I'm known for:
 
 ## Current Projects
 
+### Jump King Speedrunning Mod (80%):
+
+A C# Mod for the game Jump King which plugs the speedrunning timer capabilities of livesplit straight into the game. Keep track of Best times; Gold Splits; All Previous Runs and Segments and generates a Livesplit LSS file to be open outside of the game.
+
 ### Jump King Map Editor (27%):
 
 A C# GUI that will be able to build custom modded levels for the game jump king as well as letting map makers easily edit enitity/player/object data. Currently maps are made in photoshop or sprite software and extra data needs to be edited in xmls by hand.
-
-### Jump King Launcher Prototype (90%):
-
-A C# GUI that will be able to install mods directly to the game jump king as well as allowing the user to pick which mods are enabled before the game is laumched. Planned to be rebuilt in Electron to better connect with the websites for JK+ if the prototype works well.
 
 ### Extreme3D (65%): 
 
