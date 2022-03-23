@@ -26,6 +26,8 @@ Gathers memory data from the nintendo 64 game Extreme G and draws a 3d rendering
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenixx19&repo=JumpKingPlus&show_owner=true)](https://github.com/Phoenixx19/JumpKingPlus)
 
+![](https://img.shields.io/github/downloads/Phoenixx19/JumpKingPlus/total?style=flat-square)
+
 C# | Python | Java | Haskell
 
 <!--
