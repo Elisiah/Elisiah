@@ -24,9 +24,9 @@ Gathers memory data from the nintendo 64 game Extreme G and draws a 3d rendering
 
 ### I also help add new features to the game Jump King as part of the JK+ Team:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenixx19&repo=JumpKingPlus&show_owner=true)](https://github.com/Phoenixx19/JumpKingPlus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumpkingplus&repo=JumpKingPlus&show_owner=true)](https://github.com/Phoenixx19/JumpKingPlus)
 
-![](https://img.shields.io/github/downloads/Phoenixx19/JumpKingPlus/total?style=flat-square)
+![](https://camo.githubusercontent.com/484d1c37fc9b8e6609a7100eef355a8d60a0f0e2bc7722f061541e2a1c7ba045/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f4a756d704b696e67506c75732f4a756d704b696e67506c75732f746f74616c3f7374796c653d666c61742d737175617265)
 
 C# | Python | Java | Haskell
 
