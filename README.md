@@ -14,13 +14,9 @@ I'm known for:
 
 A C# Mod for the game Jump King which plugs the speedrunning timer capabilities of livesplit straight into the game. Keep track of Best times; Gold Splits; All Previous Runs and Segments and generates a Livesplit LSS file to be open outside of the game.
 
-### Jump King Map Editor (27%):
+### Chameleon Twist Decompilation:
 
-A C# GUI that will be able to build custom modded levels for the game jump king as well as letting map makers easily edit enitity/player/object data. Currently maps are made in photoshop or sprite software and extra data needs to be edited in xmls by hand.
-
-### Extreme3D (65%): 
-
-Gathers memory data from the nintendo 64 game Extreme G and draws a 3d rendering of the player's race path using Blender. It also will be able to create a real time replay of the race using in-game models which will allow users better insight on their races than anything available in game
+A C rebuild of the game Chameleon Twist for the Nintendo 64, similar to the mario 64 decomp project that was popular last year
 
 ### I also help add new features to the game Jump King as part of the JK+ Team:
 
