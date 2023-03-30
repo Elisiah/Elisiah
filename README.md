@@ -30,9 +30,11 @@ The JumpKingPlus version of the game has been featured in an offical [Twitch Riv
 A (WIP) complete remake of the source code from the game Chameleon Twist for the Nintendo 64, using C to match the ROMs assembly instructions.
 The code is all handwritten by the team and no actual game data can be used unless a user provides their own game ROM.
 
+📈 [Progress Graph](https://elisiah.github.io/DecompProgress/) 📈
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chameleonTwistRet&repo=chameleonTwistv1.0-JP)
 
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/chameleonTwistRet/chameleonTwist2v1.0-JP/master/assets_for_repo/badges/compiler.json&style='plastic'"/>  <img src ="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Rainchus/chameleonTwistv1.0-JP/master/decompAsset/percentBadges/Total-Game.json&style='plastic'"/>
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/chameleonTwistRet/chameleonTwist2v1.0-JP/master/assets_for_repo/badges/compiler.json&style='plastic'"/> 
 
 
 <!--
