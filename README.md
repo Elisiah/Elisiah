@@ -19,7 +19,7 @@ Languages: C# | Python | C | Java | Haskell
 
 The JumpKingPlus team was founded by Phoenixx19 and is a small team of developers that release tools in a collective bundle, allowing player's of Jump King to make their own custom maps; play online with friends; create and play with new features and items etc.
 
-The JumpKingPlus version of the game has been featured in an offical [Twitch Rivals](https://twitchrivals.com/) event and has 30,000+ users
+The JumpKingPlus version of the game has been featured in an offical [Twitch Rivals](https://twitchrivals.com/) event and has 40,000+ users
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumpkingplus&repo=JumpKingPlus&show_owner=true)](https://github.com/Phoenixx19/JumpKingPlus)
 
