@@ -32,9 +32,9 @@ The code is all handwritten by the team and no actual game data can be used unle
 
 📈 [Progress Graph](https://elisiah.github.io/DecompProgress/) 📈
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chameleonTwistRet&repo=chameleonTwistv1.0-JP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chameleonTwistRet&repo=chameleonTwistv1.0-JP)](https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP)
 
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/chameleonTwistRet/chameleonTwist2v1.0-JP/master/assets_for_repo/badges/compiler.json&style='plastic'"/> 
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/chameleonTwistRet/chameleonTwist2v1.0-JP/master/assets_for_repo/badges/compiler.json&style='plastic'"/> <img src="https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP/actions/workflows/ci.yml/badge.svg"> <img src="https://img.shields.io/endpoint?label=Code%20JP&url=https%3A%2F%2Fprogress.deco.mp%2Fdata%2Fchameleontwist%2Fjp%2Fdefault%2F%3Fmode%3Dshield%26measure%3Dfuncs&color=yellow"/> <img src="https://img.shields.io/endpoint?label=All%20JP&url=https%3A%2F%2Fprogress.deco.mp%2Fdata%2Fchameleontwist%2Fjp%2Fdefault%2F%3Fmode%3Dshield%26measure%3Dbytes&color=orange"/>
 
 
 <!--
